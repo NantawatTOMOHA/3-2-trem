@@ -1,0 +1,16 @@
+#1075833031371264110
+#MTA3NTgzMzAzMTM3MTI2NDExMA.GoT-b6.0Ic6C0Y-cgdfV_uhZZPDD9jgTOahKkyYg6iGMo
+8
+
+import random
+def hadle_response(message)-> str:
+    p_message = message.lower()
+
+    if p_message =='Snow':
+      return'sZNoow!!'
+    
+    if p_message =='give':
+       return str(random.randint(1,6))
+    
+    if p_message =='cute':
+       return ">///<"

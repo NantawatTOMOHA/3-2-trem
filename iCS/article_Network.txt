@@ -1,0 +1,6 @@
+https://www.networkcomputing.com/networking/digital-twins-are-living-and-breathing-network-diagram
+main:
+Digital Twins are a Living and Breathing Network Diagram
+
+Visibility into network intent is a growing problem for NetOps teams. Learn how digital twins create a living and breathing network diagram with network change preparation, troubleshooting, and compliance benefits that result in more confidence and increased implementation speed.
+Andrew Froehlich

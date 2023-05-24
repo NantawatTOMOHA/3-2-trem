@@ -1,0 +1,5 @@
+https://www.networkcomputing.com/networking/digital-twins-are-living-and-breathing-network-diagram
+
+การใช้ digital twin ในการสร้าง network diagram ที่ใช้แก้ปัญหากรณีที่ network diagram นั้นไม่ถูกอัพเดตทีม NetOps โดยด้วยความที่เป็น digital twin สิ่งเหล่านี้จะถูกจัดการแบบ real time ด้วยความสามารถนี้
+ได้ส่งเสริมการแก้ปัญหาได้รวดเร็วเนื่องจากตัวการแก้ปัญหา network architect ที่เป็น hybrid และ multi-cloud นั้นซับซ้อนส่งผลให้ถ้าเป็นคนแก้ต้องเสียเวลามากแต่ด้วย twin digital สามารถย้อนดูปัญหาที่เกิดในอดีต และ ตวรจสอบวิเคราะห์ทำให้ขอบเขตแคบลง
+ซึ้งทำให้แก้ปัญหาได้เร็วขึ้น
