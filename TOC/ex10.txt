@@ -1,0 +1,10 @@
+aabbaaaa
+aaabbaaaaa
+
+	a,$>a$
+	a,a>aa
+		 	a,lamda>lamda		lamda,lamda>lamda 	a,b>b
+					b,a>aa					a,a>a
+											a,lamda>$
+						
+
